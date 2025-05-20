@@ -363,4 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 #Os meus logs
-Logs/Logs.md
+logs/*
+!logs/Logs.md
