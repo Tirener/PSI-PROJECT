@@ -7,7 +7,7 @@ using Microsoft.SqlServer.Server;
 using System.Data.SqlClient;
 using System.Data;
 
-namespace I_fucking_hate_this_class
+namespace I_fucking_hate_this_class.Handlers
 {
     internal class DataBaseHandler
     {

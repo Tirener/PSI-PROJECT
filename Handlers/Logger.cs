@@ -2,7 +2,7 @@
 using System;
 using System.IO;
 
-namespace I_fucking_hate_this_class
+namespace I_fucking_hate_this_class.Handlers
 {
     /// <summary>
     /// Custom logging para os meus projetos de PSI
