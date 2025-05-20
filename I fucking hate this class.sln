@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I fucking hate this class", "I fucking hate this class.csproj", "{D63BF325-4C12-4E6B-B8E1-1B46F07C77DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63BF325-4C12-4E6B-B8E1-1B46F07C77DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63BF325-4C12-4E6B-B8E1-1B46F07C77DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63BF325-4C12-4E6B-B8E1-1B46F07C77DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63BF325-4C12-4E6B-B8E1-1B46F07C77DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D1952C-87D8-41DE-9AD6-383F7CFB48D3}
+	EndGlobalSection
+EndGlobal
